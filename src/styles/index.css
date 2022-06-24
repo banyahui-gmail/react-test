@@ -1,0 +1,8 @@
+html {
+  font-family: 'Microsoft YaHei', 'Arial', 'sans-serif';
+}
+
+body {
+  background: white;
+  transition: all 0.3s;
+}

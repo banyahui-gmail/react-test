@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3465174 */
+  src: url('../assets/fonts/iconfont.woff2?t=1656041391525') format('woff2'),
+       url('../assets/fonts/iconfont.woff?t=1656041391525') format('woff'),
+       url('../assets/fonts/iconfont.ttf?t=1656041391525') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-cart:before {
+  content: "\e60a";
+}
+
+.icon-tipsmoney:before {
+  content: "\e6e3";
+}
+
+.icon-user:before {
+  content: "\e682";
+}
+
+.icon-applewatch:before {
+  content: "\e6d2";
+}
+
+.icon-apple:before {
+  content: "\e60e";
+}
+
+.icon-apple1:before {
+  content: "\e61e";
+}
+
+.icon-apple2:before {
+  content: "\e87e";
+}
+
+.icon-apple-fill:before {
+  content: "\e881";
+}
+
+.icon-apple3:before {
+  content: "\e611";
+}
+

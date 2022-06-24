@@ -1,7 +1,7 @@
-const fun_add = (a,b)=>{
-	return a + b
+const funAdd = (a, b) => {
+  return a + b + c
 }
 
-export default function add(a, b){
-    return fun_add(a,b)
+export default function add (a, b) {
+  return funAdd(a, b)
 }
